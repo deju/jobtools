@@ -1,0 +1,12 @@
+{
+  "name": "mac-robot",
+  "version": "1.0.0",
+  "description": "mac robot",
+  "main": "index.js",
+  "author": "juju",
+  "license": "MIT",
+  "dependencies": {
+    "linebyline": "^1.3.0",
+    "robotjs": "^0.4.7"
+  }
+}
