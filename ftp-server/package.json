@@ -1,0 +1,11 @@
+{
+  "name": "ftp-server",
+  "version": "1.0.0",
+  "description": "ftp server",
+  "main": "index.js",
+  "author": "juju",
+  "license": "MIT",
+  "dependencies": {
+    "ftpd": "^0.2.15"
+  }
+}
