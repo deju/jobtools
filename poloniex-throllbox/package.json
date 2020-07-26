@@ -1,0 +1,9 @@
+{
+  "name": "poloniex-throllbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "autobahn": "^17.5.1"
+  }
+}
